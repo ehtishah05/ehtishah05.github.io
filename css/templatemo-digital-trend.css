@@ -278,6 +278,7 @@ https://templatemo.com/tm-538-digital-trend
     width: 30px;
     height: 35px;
     outline: none;
+	  background-color:var(--primary-color);
   }
 
   .navbar-toggler:focus {
